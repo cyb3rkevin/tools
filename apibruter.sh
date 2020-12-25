@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 2020 Advent of Cyber Day 16 challenge (written in bash)
+# TryHackMe Advent of Cyber 2020 - Day 16 API challenge (written in bash)
 
 # declare inital api number of 1 and increment by 2 to 100 
 for number in $(seq 1 2 100);
