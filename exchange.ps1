@@ -4,4 +4,4 @@
 Start-Service *exchange*
 
 <# check all service components are in a running state #>
-Get-Service *exchange* | select -Property Status, Name, DisplayName, StartType
+Get-Service *exchange* | select -Property Status,Name,DisplayName,StartType
