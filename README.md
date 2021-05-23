@@ -1,2 +1,2 @@
-# tools
-Tools I've created on my journey to becoming a proficient coder
+# Tools
+Tools, Scripts and Sample Code created to enhance my proficiency to code and enhance my website 
